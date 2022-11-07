@@ -190,6 +190,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (72)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &7208414 stripped
@@ -230,7 +234,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7208414}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -244,7 +248,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 110
+      value: 111
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -302,6 +306,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (110)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1001 &21456752
@@ -313,7 +321,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 92
+      value: 93
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -371,6 +379,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (92)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1001 &25674393
@@ -382,7 +394,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 107
+      value: 108
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -439,6 +451,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_Name
       value: Spike_Single (107)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
@@ -509,6 +525,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (38)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &29307436 stripped
@@ -549,7 +569,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 29307437}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -563,7 +583,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: a41471c0ddf11d141a0a8314ee6abdf8, type: 3}
       propertyPath: m_RootOrder
-      value: 36
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a41471c0ddf11d141a0a8314ee6abdf8, type: 3}
       propertyPath: m_LocalScale.x
@@ -690,6 +710,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &40398011 stripped
@@ -710,7 +734,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 40398012}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -753,7 +777,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 41660155}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -1047,6 +1071,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (55)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1001 &99001013
@@ -1116,6 +1144,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &99745985 stripped
@@ -1156,7 +1188,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 99745985}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -1227,6 +1259,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_Name
       value: Spike_Single (59)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
@@ -1370,6 +1406,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (58)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &118700445 stripped
@@ -1410,7 +1450,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 118700445}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -1482,6 +1522,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &127533680 stripped
@@ -1522,7 +1566,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 127533680}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -1565,7 +1609,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 134361186}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -1637,8 +1681,45 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (61)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+--- !u!1 &152034974
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 152034975}
+  m_Layer: 0
+  m_Name: CaidaVacio
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &152034975
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 152034974}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1569861034}
+  - {fileID: 372346532}
+  m_Father: {fileID: 0}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &152617142
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1706,6 +1787,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &152617143 stripped
@@ -1726,7 +1811,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 152617144}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -1769,7 +1854,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 155590731}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -1841,6 +1926,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (80)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1001 &189166530
@@ -1852,7 +1941,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: f442908ed0015ad4f827fb0a8a9cac6f, type: 3}
       propertyPath: m_RootOrder
-      value: 51
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f442908ed0015ad4f827fb0a8a9cac6f, type: 3}
       propertyPath: m_LocalScale.x
@@ -1950,7 +2039,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 192018349}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -1993,7 +2082,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 198681973}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -2064,6 +2153,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_Name
       value: Spike_Single (47)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
@@ -2193,7 +2286,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 208351237}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -2207,7 +2300,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 103
+      value: 104
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -2264,6 +2357,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_Name
       value: Spike_Single (103)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
@@ -2334,6 +2431,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &235140578 stripped
@@ -2354,7 +2455,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 235140579}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -2397,7 +2498,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 250157980}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -2483,7 +2584,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 262132022}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -2497,7 +2598,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 108
+      value: 109
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -2555,6 +2656,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (108)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &278899840 stripped
@@ -2595,7 +2700,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 278899840}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -2667,6 +2772,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &280409634 stripped
@@ -2687,7 +2796,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 280409635}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -2876,7 +2985,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 302975588}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -2948,6 +3057,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &315922183 stripped
@@ -2968,7 +3081,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 315922184}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -2982,7 +3095,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 711524e364149104aad257ec11a044c8, type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 711524e364149104aad257ec11a044c8, type: 3}
       propertyPath: m_LocalScale.x
@@ -3085,7 +3198,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 322394237}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -3157,6 +3270,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (74)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &328036975 stripped
@@ -3197,7 +3314,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 328036975}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -3269,6 +3386,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (48)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1001 &332631199
@@ -3338,6 +3459,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &332631200 stripped
@@ -3358,7 +3483,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 332631201}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -3401,7 +3526,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 334522753}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -3444,7 +3569,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 335532710}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -3516,6 +3641,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (66)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1001 &358076955
@@ -3585,6 +3714,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &358076956 stripped
@@ -3605,11 +3738,108 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 358076957}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
   m_Center: {x: 0, y: 0.00000023841858, z: 0.009939432}
+--- !u!1 &372346531
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 372346532}
+  - component: {fileID: 372346535}
+  - component: {fileID: 372346534}
+  - component: {fileID: 372346533}
+  m_Layer: 0
+  m_Name: Etapa 2
+  m_TagString: Vacio2
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &372346532
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 372346531}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.279193, y: -21.9, z: 147.3}
+  m_LocalScale: {x: 70, y: 1, z: 100}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 152034975}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &372346533
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 372346531}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.6091524, y: 1, z: 1}
+  m_Center: {x: -0.0149968015, y: 0, z: 0}
+--- !u!23 &372346534
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 372346531}
+  m_Enabled: 0
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &372346535
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 372346531}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1 &373615234 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
@@ -3648,7 +3878,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 373615234}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -3691,7 +3921,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 401713184}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -3763,6 +3993,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &404268829 stripped
@@ -3783,7 +4017,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 404268830}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -3855,6 +4089,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &423685829
@@ -3893,7 +4131,7 @@ Transform:
   - {fileID: 1346820241}
   - {fileID: 958281508}
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &426351379
 PrefabInstance:
@@ -3962,6 +4200,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (78)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &427295102 stripped
@@ -4002,7 +4244,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 427295102}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -4016,7 +4258,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 89
+      value: 90
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -4074,6 +4316,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (89)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &430366151 stripped
@@ -4114,7 +4360,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 430366151}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -4157,7 +4403,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 437774891}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -4243,7 +4489,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 449450340}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -4351,7 +4597,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 114
+      value: 115
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -4409,6 +4655,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (114)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &479992687 stripped
@@ -4449,7 +4699,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 479992687}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -4463,7 +4713,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: e3277f1553f0bdb49937b1538dd63756, type: 3}
       propertyPath: m_RootOrder
-      value: 53
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e3277f1553f0bdb49937b1538dd63756, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4578,6 +4828,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (60)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &498888532 stripped
@@ -4618,7 +4872,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 498888532}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -4661,7 +4915,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 504367626}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -4733,6 +4987,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &513350718 stripped
@@ -4753,7 +5011,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 513350719}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -4767,7 +5025,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: f442908ed0015ad4f827fb0a8a9cac6f, type: 3}
       propertyPath: m_RootOrder
-      value: 46
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f442908ed0015ad4f827fb0a8a9cac6f, type: 3}
       propertyPath: m_LocalScale.x
@@ -4894,6 +5152,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (67)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &541206613 stripped
@@ -4986,6 +5248,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (79)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1001 &567903547
@@ -4997,7 +5263,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 102
+      value: 103
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -5054,6 +5320,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_Name
       value: Spike_Single (102)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
@@ -5124,6 +5394,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &585563454 stripped
@@ -5144,7 +5418,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 585563455}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -5158,7 +5432,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 88
+      value: 89
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -5216,6 +5490,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (88)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &592774446 stripped
@@ -5256,7 +5534,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 592774446}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -5270,7 +5548,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: f442908ed0015ad4f827fb0a8a9cac6f, type: 3}
       propertyPath: m_RootOrder
-      value: 49
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f442908ed0015ad4f827fb0a8a9cac6f, type: 3}
       propertyPath: m_LocalScale.x
@@ -5391,7 +5669,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 621318028}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -5405,7 +5683,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 99
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -5462,6 +5740,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_Name
       value: Spike_Single (99)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
@@ -5532,6 +5814,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (81)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1001 &642464527
@@ -5543,7 +5829,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: f442908ed0015ad4f827fb0a8a9cac6f, type: 3}
       propertyPath: m_RootOrder
-      value: 52
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f442908ed0015ad4f827fb0a8a9cac6f, type: 3}
       propertyPath: m_LocalScale.x
@@ -5612,7 +5898,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: f442908ed0015ad4f827fb0a8a9cac6f, type: 3}
       propertyPath: m_RootOrder
-      value: 45
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f442908ed0015ad4f827fb0a8a9cac6f, type: 3}
       propertyPath: m_LocalScale.x
@@ -5739,6 +6025,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (71)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &682615327 stripped
@@ -5779,7 +6069,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 682615327}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -5822,7 +6112,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 688444689}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -5917,6 +6207,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &697031986 stripped
@@ -5937,7 +6231,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 697031987}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -5951,7 +6245,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ebd003d124260f843ac13e367dfe536b, type: 3}
       propertyPath: m_RootOrder
-      value: 9
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ebd003d124260f843ac13e367dfe536b, type: 3}
       propertyPath: m_LocalScale.x
@@ -6160,7 +6454,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 724964113}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -6232,6 +6526,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &731678644 stripped
@@ -6252,7 +6550,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 731678645}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -6295,7 +6593,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 738131476}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -6367,6 +6665,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &747420654 stripped
@@ -6407,7 +6709,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 747420654}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -6479,6 +6781,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &751445693 stripped
@@ -6499,7 +6805,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 751445694}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -6542,7 +6848,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 757050303}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -6579,7 +6885,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 100
+      value: 101
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -6637,6 +6943,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (100)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1001 &769216463
@@ -6648,7 +6958,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 112
+      value: 113
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -6706,6 +7016,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (112)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1001 &776585888
@@ -6717,7 +7031,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 90
+      value: 91
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -6774,6 +7088,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_Name
       value: Spike_Single (90)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
@@ -6867,6 +7185,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &799644467 stripped
@@ -6887,7 +7209,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 799644468}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -6930,7 +7252,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 801028718}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -6944,7 +7266,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ded539c79379f3d4fab6bc2a1c20c9e1, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ded539c79379f3d4fab6bc2a1c20c9e1, type: 3}
       propertyPath: m_LocalScale.x
@@ -7113,7 +7435,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 823033163}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -7185,6 +7507,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &833190050 stripped
@@ -7205,7 +7531,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 833190051}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -7248,7 +7574,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 844427317}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -7291,7 +7617,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 851310010}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -7363,6 +7689,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (82)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1001 &861668913
@@ -7374,7 +7704,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 104
+      value: 105
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -7431,6 +7761,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_Name
       value: Spike_Single (104)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
@@ -7501,6 +7835,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (57)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1001 &875738966
@@ -7570,6 +7908,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &875738967 stripped
@@ -7590,7 +7932,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 875738968}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -7604,7 +7946,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: e3277f1553f0bdb49937b1538dd63756, type: 3}
       propertyPath: m_RootOrder
-      value: 50
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e3277f1553f0bdb49937b1538dd63756, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7690,7 +8032,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 899958477}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -7733,7 +8075,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 913242438}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -7776,7 +8118,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 916455869}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -7790,7 +8132,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 115
+      value: 116
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -7847,6 +8189,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_Name
       value: Spike_Single (115)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
@@ -7917,6 +8263,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (84)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &928040648 stripped
@@ -7957,7 +8307,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 928040648}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -7971,7 +8321,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ded539c79379f3d4fab6bc2a1c20c9e1, type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ded539c79379f3d4fab6bc2a1c20c9e1, type: 3}
       propertyPath: m_LocalScale.x
@@ -8103,6 +8453,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (54)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &940575748 stripped
@@ -8143,7 +8497,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 940575748}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -8186,7 +8540,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 940693231}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -8258,6 +8612,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &940817560 stripped
@@ -8278,7 +8636,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 940817561}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -8394,7 +8752,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 942051624}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -8466,6 +8824,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (69)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &958281507 stripped
@@ -8520,7 +8882,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 86
+      value: 87
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -8577,6 +8939,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_Name
       value: Spike_Single (86)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
@@ -8647,6 +9013,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &968378446 stripped
@@ -8667,7 +9037,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 968378447}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -8739,6 +9109,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (49)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1001 &980311610
@@ -8807,6 +9181,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_Name
       value: Spike_Single (73)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
@@ -8877,6 +9255,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (56)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1001 &989418406
@@ -8888,7 +9270,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 666fb5a26dba61a48b1067783b3701c4, type: 3}
       propertyPath: m_RootOrder
-      value: 12
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 666fb5a26dba61a48b1067783b3701c4, type: 3}
       propertyPath: m_LocalScale.x
@@ -9088,6 +9470,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (62)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &1007513733 stripped
@@ -9128,7 +9514,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1007513733}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -9200,6 +9586,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &1027217701 stripped
@@ -9220,7 +9610,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1027217702}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -9263,7 +9653,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1051519800}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -9335,6 +9725,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &1060144267 stripped
@@ -9355,7 +9749,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1060144268}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -9398,7 +9792,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1061300372}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -9514,7 +9908,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1080626237}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -9557,7 +9951,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1089557205}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -9652,6 +10046,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &1104195512 stripped
@@ -9692,7 +10090,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1104195512}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -9735,7 +10133,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1115143906}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -9778,7 +10176,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1119728209}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -9821,7 +10219,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1120611517}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -10038,7 +10436,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a54ae879b3ec6e444a0d34c8e794d51d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.0237265
+      value: -0.05
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a54ae879b3ec6e444a0d34c8e794d51d, type: 3}
       propertyPath: m_LocalPosition.y
@@ -10046,7 +10444,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a54ae879b3ec6e444a0d34c8e794d51d, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 8.504417
+      value: 8.2
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a54ae879b3ec6e444a0d34c8e794d51d, type: 3}
       propertyPath: m_LocalRotation.w
@@ -10099,9 +10497,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d6e8a6726fa5744d928709cd5082ccd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1
-  jumpForce: 1
-  RotationSpeed: 1
+  speed: 8
+  jumpForce: 7
+  RotationSpeed: 30
+  monedasRecolectadas: 0
+  runingSpeed: 15
+  correr: 0
 --- !u!54 &1146652675
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -10129,8 +10530,13 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 1.9731759, y: 4.2878056, z: 1.4226389}
+  m_Center: {x: -0.008024633, y: 2.2006264, z: 0.21131945}
+--- !u!4 &1146652677 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: a54ae879b3ec6e444a0d34c8e794d51d, type: 3}
+  m_PrefabInstance: {fileID: 1146652672}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1150619582
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10198,6 +10604,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &1150619583 stripped
@@ -10218,7 +10628,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1150619584}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -10290,6 +10700,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (50)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &1173463198 stripped
@@ -10330,7 +10744,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1173463198}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -10344,7 +10758,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 116
+      value: 117
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -10401,6 +10815,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_Name
       value: Spike_Single (116)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
@@ -10471,6 +10889,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (75)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1001 &1186744816
@@ -10540,6 +10962,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &1186744817 stripped
@@ -10560,7 +10986,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1186744818}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -10603,7 +11029,7 @@ Transform:
   - {fileID: 1205754472}
   - {fileID: 708983915}
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1203120672
 PrefabInstance:
@@ -10614,7 +11040,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 4ad8ed272db535f48adf113c5a9991ff, type: 3}
       propertyPath: m_RootOrder
-      value: 39
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4ad8ed272db535f48adf113c5a9991ff, type: 3}
       propertyPath: m_LocalScale.x
@@ -10783,7 +11209,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 98
+      value: 99
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -10840,6 +11266,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_Name
       value: Spike_Single (98)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
@@ -10910,6 +11340,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &1252225729 stripped
@@ -10930,7 +11364,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1252225730}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -10973,7 +11407,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1254873149}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -11008,7 +11442,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!54 &1258951567
 Rigidbody:
@@ -11035,7 +11469,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 711524e364149104aad257ec11a044c8, type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 711524e364149104aad257ec11a044c8, type: 3}
       propertyPath: m_LocalScale.x
@@ -11109,7 +11543,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: f442908ed0015ad4f827fb0a8a9cac6f, type: 3}
       propertyPath: m_RootOrder
-      value: 44
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f442908ed0015ad4f827fb0a8a9cac6f, type: 3}
       propertyPath: m_LocalScale.x
@@ -11214,7 +11648,7 @@ Transform:
   - {fileID: 1923868695}
   - {fileID: 541206617}
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1324745580
 PrefabInstance:
@@ -11282,6 +11716,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_Name
       value: Spike_Single (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
@@ -11352,6 +11790,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &1328774078 stripped
@@ -11372,7 +11814,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1328774079}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -11386,7 +11828,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 5a49ae36efbeaf44889453ca6c223fb4, type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5a49ae36efbeaf44889453ca6c223fb4, type: 3}
       propertyPath: m_LocalScale.x
@@ -11478,7 +11920,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 106
+      value: 107
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -11535,6 +11977,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_Name
       value: Spike_Single (106)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
@@ -11648,6 +12094,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &1368330152 stripped
@@ -11668,7 +12118,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1368330153}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -11786,6 +12236,7 @@ Transform:
   - {fileID: 198681974}
   - {fileID: 1978643028}
   - {fileID: 1061300373}
+  - {fileID: 1119728210}
   - {fileID: 1702200223}
   - {fileID: 498888533}
   - {fileID: 1089557206}
@@ -11818,9 +12269,8 @@ Transform:
   - {fileID: 1007513734}
   - {fileID: 942051625}
   - {fileID: 449450341}
-  - {fileID: 1119728210}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1385866618 stripped
 GameObject:
@@ -11860,7 +12310,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1385866618}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -11874,7 +12324,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: e2d45f9bdf6cd5c48abde36b085304d3, type: 3}
       propertyPath: m_RootOrder
-      value: 40
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e2d45f9bdf6cd5c48abde36b085304d3, type: 3}
       propertyPath: m_LocalScale.x
@@ -11972,7 +12422,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1390452655}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -12044,6 +12494,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &1427306342 stripped
@@ -12064,7 +12518,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1427306343}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -12107,7 +12561,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1428518274}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -12164,7 +12618,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 93
+      value: 94
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -12221,6 +12675,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_Name
       value: Spike_Single (93)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
@@ -12291,6 +12749,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (68)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1001 &1447492203
@@ -12302,7 +12764,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 95
+      value: 96
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -12360,6 +12822,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (95)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1001 &1454961715
@@ -12371,7 +12837,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 111
+      value: 112
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -12428,6 +12894,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_Name
       value: Spike_Single (111)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
@@ -12492,7 +12962,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1498692237}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -12506,7 +12976,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 87
+      value: 88
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -12564,6 +13034,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (87)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &1501954123 stripped
@@ -12604,7 +13078,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1501954123}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -12618,7 +13092,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: cb4fdea8743e8a94d8e52b29df990f47, type: 3}
       propertyPath: m_RootOrder
-      value: 10
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: cb4fdea8743e8a94d8e52b29df990f47, type: 3}
       propertyPath: m_LocalScale.x
@@ -12716,7 +13190,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1549310405}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -12811,6 +13285,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &1563255878 stripped
@@ -12831,11 +13309,108 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1563255879}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
   m_Center: {x: -0.000000014901161, y: 0.00000017881393, z: 0.00993944}
+--- !u!1 &1569861033
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1569861034}
+  - component: {fileID: 1569861037}
+  - component: {fileID: 1569861036}
+  - component: {fileID: 1569861035}
+  m_Layer: 0
+  m_Name: Etapa1
+  m_TagString: Vacio
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1569861034
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1569861033}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.5, y: -22.4, z: 47.7}
+  m_LocalScale: {x: 70, y: 1, z: 100}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 152034975}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1569861035
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1569861033}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.6978043, y: 1, z: 1}
+  m_Center: {x: -0.10653801, y: 0, z: 0}
+--- !u!23 &1569861036
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1569861033}
+  m_Enabled: 0
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &1569861037
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1569861033}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1001 &1581608794
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12845,19 +13420,19 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 117
+      value: 85
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.2
+      value: 0.19999999
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.2
+      value: 0.19999996
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.2
+      value: 0.19999996
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalPosition.x
@@ -12903,6 +13478,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (117)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1001 &1586508201
@@ -12914,7 +13493,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 105
+      value: 106
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -12971,6 +13550,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_Name
       value: Spike_Single (105)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
@@ -13041,6 +13624,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &1599607655 stripped
@@ -13061,7 +13648,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1599607656}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -13133,6 +13720,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &1617316077 stripped
@@ -13153,7 +13744,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1617316078}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -13167,7 +13758,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: f442908ed0015ad4f827fb0a8a9cac6f, type: 3}
       propertyPath: m_RootOrder
-      value: 48
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f442908ed0015ad4f827fb0a8a9cac6f, type: 3}
       propertyPath: m_LocalScale.x
@@ -13236,7 +13827,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 91
+      value: 92
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -13294,6 +13885,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (91)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &1629890277 stripped
@@ -13328,7 +13923,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: e3277f1553f0bdb49937b1538dd63756, type: 3}
       propertyPath: m_RootOrder
-      value: 54
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e3277f1553f0bdb49937b1538dd63756, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13443,6 +14038,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (63)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1001 &1682180125
@@ -13512,6 +14111,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (44)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &1688887874 stripped
@@ -13552,7 +14155,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1688887874}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -13595,7 +14198,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1691007030}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -13638,7 +14241,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1702200222}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -13710,6 +14313,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &1705152223 stripped
@@ -13730,7 +14337,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1705152224}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -13875,6 +14482,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (41)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1001 &1765280790
@@ -13943,6 +14554,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_Name
       value: Spike_Single (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
@@ -14013,6 +14628,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &1769466920 stripped
@@ -14033,7 +14652,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1769466921}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -14047,7 +14666,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 85
+      value: 86
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -14105,6 +14724,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (85)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1001 &1771701104
@@ -14116,7 +14739,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 97
+      value: 98
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -14173,6 +14796,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_Name
       value: Spike_Single (97)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
@@ -14289,6 +14916,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &1808484031 stripped
@@ -14309,7 +14940,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1808484032}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -14375,7 +15006,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1818175664}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -14389,7 +15020,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 94
+      value: 95
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -14447,6 +15078,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (94)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1001 &1827200573
@@ -14458,7 +15093,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: e2d45f9bdf6cd5c48abde36b085304d3, type: 3}
       propertyPath: m_RootOrder
-      value: 47
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e2d45f9bdf6cd5c48abde36b085304d3, type: 3}
       propertyPath: m_LocalScale.x
@@ -14527,7 +15162,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 96
+      value: 97
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -14585,6 +15220,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (96)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &1829213976 stripped
@@ -14625,7 +15264,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1829213976}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -14639,7 +15278,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 5a49ae36efbeaf44889453ca6c223fb4, type: 3}
       propertyPath: m_RootOrder
-      value: 11
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5a49ae36efbeaf44889453ca6c223fb4, type: 3}
       propertyPath: m_LocalScale.x
@@ -14766,6 +15405,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &1840553294 stripped
@@ -14786,7 +15429,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1840553295}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -14829,7 +15472,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1849106268}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -14901,6 +15544,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &1849503130 stripped
@@ -14921,7 +15568,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1849503131}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -14935,7 +15582,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 113
+      value: 114
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -14992,6 +15639,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_Name
       value: Spike_Single (113)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
@@ -15062,6 +15713,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &1862910039 stripped
@@ -15082,7 +15737,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1862910040}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -15154,6 +15809,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (65)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1001 &1880059281
@@ -15222,6 +15881,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_Name
       value: Spike_Single (70)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
@@ -15292,6 +15955,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (52)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &1885524204 stripped
@@ -15355,7 +16022,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1885936385}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -15369,7 +16036,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: e3277f1553f0bdb49937b1538dd63756, type: 3}
       propertyPath: m_RootOrder
-      value: 37
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e3277f1553f0bdb49937b1538dd63756, type: 3}
       propertyPath: m_LocalPosition.x
@@ -15426,7 +16093,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 711524e364149104aad257ec11a044c8, type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 711524e364149104aad257ec11a044c8, type: 3}
       propertyPath: m_LocalScale.x
@@ -15529,7 +16196,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1896495554}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -15572,7 +16239,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1917992525}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -15726,7 +16393,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1948337847}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -15798,6 +16465,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &1953939292 stripped
@@ -15818,7 +16489,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1953939293}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -15861,7 +16532,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1956389553}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -15933,6 +16604,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (64)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &1978643027 stripped
@@ -15973,7 +16648,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1978643027}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -16098,7 +16773,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 109
+      value: 110
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -16155,6 +16830,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_Name
       value: Spike_Single (109)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
@@ -16224,6 +16903,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_Name
       value: Spike_Single (77)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
@@ -16382,6 +17065,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (83)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &2045882752
@@ -16460,14 +17147,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2045882752}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.97, y: 19.2, z: 92.32}
+  m_LocalRotation: {x: 0.12989403, y: -0, z: -0, w: 0.9915279}
+  m_LocalPosition: {x: -4.9937267, y: 8.22, z: -9.75}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Father: {fileID: 1146652677}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 14.927, y: 0, z: 0}
 --- !u!1001 &2047626073
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16535,6 +17222,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (51)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &2048764625 stripped
@@ -16575,7 +17266,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2048764625}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -16589,7 +17280,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: f442908ed0015ad4f827fb0a8a9cac6f, type: 3}
       propertyPath: m_RootOrder
-      value: 43
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f442908ed0015ad4f827fb0a8a9cac6f, type: 3}
       propertyPath: m_LocalScale.x
@@ -16779,7 +17470,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2055226915}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -16822,7 +17513,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2077409126}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -16888,7 +17579,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2086390053}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -16960,6 +17651,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (76)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!1 &2109211409
@@ -17003,7 +17698,7 @@ Transform:
   - {fileID: 1144173091}
   - {fileID: 1562662278}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2116218128
 PrefabInstance:
@@ -17072,6 +17767,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &2116218129 stripped
@@ -17092,7 +17791,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2116218130}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -17106,7 +17805,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_RootOrder
-      value: 101
+      value: 102
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_LocalScale.x
@@ -17163,6 +17862,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
       propertyPath: m_Name
       value: Spike_Single (101)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
@@ -17233,6 +17936,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Single (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
+      propertyPath: m_TagString
+      value: Trampas
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbafef5f3e4136d4791b85715b66ab92, type: 3}
 --- !u!4 &2130459220 stripped
@@ -17253,7 +17960,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2130459221}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 0.0038237576, y: 0.004415296, z: 0.019920453}
@@ -17290,7 +17997,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ded539c79379f3d4fab6bc2a1c20c9e1, type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ded539c79379f3d4fab6bc2a1c20c9e1, type: 3}
       propertyPath: m_LocalScale.x
