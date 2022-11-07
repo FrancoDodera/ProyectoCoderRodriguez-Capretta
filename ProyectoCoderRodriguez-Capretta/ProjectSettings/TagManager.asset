@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Coin
+  - Trampas
+  - Vacio
+  - Vacio2
   layers:
   - Default
   - TransparentFX
