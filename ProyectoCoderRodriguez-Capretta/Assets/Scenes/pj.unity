@@ -10642,7 +10642,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e0e36fcc077df004fbd3034928a72015, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.3849258
+      value: 2.384926
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e0e36fcc077df004fbd3034928a72015, type: 3}
       propertyPath: m_LocalPosition.z
@@ -10705,6 +10705,26 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.072897226, y: 0.032690875, z: 0.013230197}
   m_Center: {x: 0.0000000055879354, y: 0, z: 0}
+--- !u!95 &1205754477
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1205754473}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: e83091804cd9fda4697969a4930f074b, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &1217284804
 PrefabInstance:
   m_ObjectHideFlags: 0
